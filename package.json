@@ -1,0 +1,10 @@
+{
+  "name": "pulso-pwa",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pulso — PWA social feed com navegação inferior e FAB pensados para a zona do polegar.",
+  "scripts": {
+    "dev": "npx serve . -l 3000",
+    "start": "npx serve . -l 3000"
+  }
+}
